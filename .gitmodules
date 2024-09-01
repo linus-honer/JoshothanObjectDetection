@@ -1,0 +1,3 @@
+[submodule "JoshothanObjectDetection/thirdparty/tensorflow"]
+	path = JoshothanObjectDetection/thirdparty/tensorflow
+	url = https://github.com/tensorflow/tensorflow.git
