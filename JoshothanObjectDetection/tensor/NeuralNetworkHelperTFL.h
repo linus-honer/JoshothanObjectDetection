@@ -1,5 +1,7 @@
 #pragma once
 
+#include "../thirdparty/tensorflow/tensorflow/lite/c/c_api_types.h"
+
 #include "NeuralNetworkHelper.h"
 
 class NeuralNetworkHelperTFL : public NeuralNetworkHelper
